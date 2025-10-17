@@ -55,11 +55,10 @@ Jóvenes entre 18 y 25 años, especialmente streamers y jugadores de nicho.
 
 ## Plataformas objetivo
 
-Se elige **PC** como plataforma principal por varias razones:
+El videojuego estará adaptado para PC y consolas (PlayStation 5 y XBOX). 
 
-- El público objetivo (jóvenes y streamers) juega principalmente en PC.
-- El corto tiempo de desarrollo no permite adaptaciones para consolas.
-- Permite usar teclado y ratón para exploración precisa y control cómodo del inventario.
+- El público objetivo (jóvenes y streamers) juega principalmente en PC, pero se desarrolla también para el público general de consolas.
+- El diseño simple de las mecánicas del juego permite una adaptación universal ajeno a la plataforma.
 
 ## Características técnicas
 
@@ -85,3 +84,6 @@ Se elige **PC** como plataforma principal por varias razones:
 
 ## Adaptaciones necesarias
 
+- Los controles para consola estarán adaptados a la necesidad de usar un mando.
+- El inventario será navegable de manera sencilla y natural.
+- No será necesaria una adaptación gráfica por plataforma.
