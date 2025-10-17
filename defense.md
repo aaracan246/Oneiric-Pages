@@ -33,3 +33,12 @@ Por mi parte he realizado:
 - La creación del Proyecto de Producción, creación y asignación de tareas y roles.
 - Dibujo del UI mockup
 - Estructuración, redacción y revisión final del GDD asegurando que cumpla todos los criterios.
+
+## Lucía López Rodriguez
+
+Rol: Diseño 3D - [@luci-07](https://github.com/luci-07)
+
+En este proyecto he participado en: 
+
+* Concepto inicial del juego
+* Modelado y texturizado de los escenarios, props y personajes
