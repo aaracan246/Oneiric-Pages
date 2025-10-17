@@ -7,6 +7,7 @@
   - [Paula Rumeu Romero](#paula-rumeu-romero)
   - [Samuel Urbina Flor](#samuel-urbina-flor)
   - [Lucía López Rodríguez](#lucía-lópez-rodríguez)
+  - [Alberto Aranda Cano](#alberto-aranda-cano)
 
 ## Paula Rumeu Romero
 
