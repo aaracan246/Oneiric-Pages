@@ -60,3 +60,14 @@ En este proyecto he participado en:
 - Redactar y centralizar toda la lluvia de ideas del proyecto.
 - Manejar el documento con toda la información del juego, actualizando y cambiando las cosas a favor del comentario grupal.
 - Ayudar en el manejo de la información del proyecto al realizar los diferentes documentos.
+
+## Alberto Aranda Cano
+
+Rol: Programación - [@aaracan246](https://github.com/aaracan246)
+
+He participado junto a mis compañeros en:
+
+- Concepto inicial del juego.
+- Mecánicas básicas haciendo de puente entre programación y diseño.
+- Narrativa del juego.
+- Elaboración de parte del proyecto (Preproducción).
