@@ -44,3 +44,19 @@ En este proyecto he participado en:
 * Concepto inicial del juego.
 * Trabajar con el resto del equipo en ideas para crear la narrativa.
 * Dar ideas y elaborar junto al resto de compañeros las mecánicas principales del juego.
+
+## Miguel Gallardo Cota
+
+Rol: Artista 2D - [@jusm8](https://github.com/Jusm8)
+
+Junto al equipo he participado en:
+
+- Elegir aspectos técnicos del juego.
+- Mecánicas básicas.
+- Manejar la narrativa y la historia del juego.
+
+En este proyecto he participado en:
+
+- Redactar y centralizar toda la lluvia de ideas del proyecto.
+- Manejar el documento con toda la información del juego, actualizando y cambiando las cosas a favor del comentario grupal.
+- Ayudar en el manejo de la información del proyecto al realizar los diferentes documentos.
