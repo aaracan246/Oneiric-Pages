@@ -1,4 +1,4 @@
-<img width="898" height="85" alt="index" src="https://github.com/user-attachments/assets/9d1954f3-a808-4336-a45c-789b21929985" /><img src="https://img.shields.io/badge/Asignatura-Diseño,_gestión,_publicación_y_producción-D16666?style=for-the-badge" alt="Asignatura: Diseño, gestión, publicación y producción">
+<img src="https://img.shields.io/badge/Asignatura-Diseño,_gestión,_publicación_y_producción-D16666?style=for-the-badge" alt="Asignatura: Diseño, gestión, publicación y producción">
 
 # Oneiric Pages
 
