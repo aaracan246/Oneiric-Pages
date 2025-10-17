@@ -5,43 +5,58 @@
 El proyecto nace como un ejercicio de clase con el fin de poner en práctica los pasos que se llevarían a cabo en el desarrollo de un proyecto real.
 Para describir las vistas del proyecto y cómo utilizarlas.
 <br></br>
+
 ## Vistas
 <img width="898" height="85" alt="index" src="https://github.com/user-attachments/assets/98a3612f-181e-4e7b-9872-9189cbd1f0b3" />
 <br></br>
 
-## Backlog
+### Backlog
   Esta vista contiene una lista de todas las tareas y su estado (TODO, In Progress, Done), mostrando una organización del proyecto.
   <br></br>
-## Team Capacity
-  Esta vista muestra una tabla de los integrantes del proyecto y la carga de trabajo que tienen.
+
+### Team Capacity
+  Muestra una tabla de los integrantes del proyecto y la carga de trabajo que tienen.
 <br></br>
-## Current Iteration
-  Esta vista muestra una lista de las tareas que se encuentren en la iteración de trabajo actual.
+
+### Current Iteration
+  Muestra una lista de las tareas que se encuentren en la iteración de trabajo actual.
 <br></br>
-## Roadmap
-  Esta vista muestra un calendario donde se sitúan las tareas en el tiempo.
+
+### Roadmap
+  Muestra un calendario donde se sitúan las tareas en el tiempo.
 <br></br>
-## My Items
-  Esta vista muestra una tabla con las tareas que pertenezcan al usuario registrado.
+
+### My Items
+  Una vista personal, donde se ven solo los items asignados a la persona que lo consulta.
 <br></br>
-## All: 
+
+### All: 
   Esta vista personalizada muestra una tabla de todos los elementos. Existen los siguientes campos:
 
-  - Issue: Tarea a realizar
-  - Asignee: Persona encargada de realizar la tarea
-  - Role: Campo de la tarea
-  - Status: Estado en la que se encuentra la tarea. TODO, In Progress o Done 
-  - Priority: Urgencia de la tarea
-  - Sprint: 
-  - Milestone
+  - **Issue:** Tarea a realizar
+  - **Asignee:** Persona encargada de realizar la tarea
+  - **Role:** Disciplina a la que pertenece la tarea:
+    - Diseño
+    - Producción
+    - Programación
+    - Arte
+    - Sonido
+  - **Status:** Estado actual de la tarea
+    - ToDo: Por hacer
+    - In Progress: En progreso
+    - Done: Hecho
+  - **Priority:** Urgencia o importancia de la tarea de la tarea. (1,2,3)
+  - **Sprint:** Permite organizar el trabajo en ciclos de tiempo.
+    - Sprint1: 02 Nov / 08 Nov
+    - Sprint2: 09 Nov / 15 Nov
+    - Sprint3: 16 Nov / 22 Nov
+    - Sprint4: 23 Nov / 29 Nov
+  - **Milestone:** Representa un hito importante del proyecto (Versión alfa, Demo, PMV, Entrega final...)
 
 <img width="1409" height="229" alt="index2" src="https://github.com/user-attachments/assets/660a8d3e-bda8-44f0-93d5-6dd64c9178c5" />
 
-
-
-Para incluir enlaces relevantes y personas a contactar para recibir más información.
-
+<br></br>
 
 ### Documentos
-- [GDD](GDD.md)
-- [Defensas](defense.md)
+- [GDD](GDD.md) - **Game Design Document**
+- [Defensas](defense.md) - **Defensas del proyecto**
