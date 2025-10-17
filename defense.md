@@ -41,5 +41,6 @@ Rol: Diseño 3D - [@luci-07](https://github.com/luci-07)
 
 En este proyecto he participado en: 
 
-* Concepto inicial del juego
-* Modelado y texturizado de los escenarios, props y personajes
+* Concepto inicial del juego.
+* Trabajar con el resto del equipo en ideas para crear la narrativa.
+* Dar ideas y elaborar junto al resto de compañeros las mecánicas principales del juego.
