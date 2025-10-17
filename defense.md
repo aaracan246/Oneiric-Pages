@@ -6,6 +6,7 @@
   - [Table of contents](#table-of-contents)
   - [Paula Rumeu Romero](#paula-rumeu-romero)
   - [Samuel Urbina Flor](#samuel-urbina-flor)
+  - [Lucía López Rodríguez](#lucía-lópez-rodríguez)
 
 ## Paula Rumeu Romero
 
@@ -34,7 +35,7 @@ Por mi parte he realizado:
 - Dibujo del UI mockup
 - Estructuración, redacción y revisión final del GDD asegurando que cumpla todos los criterios.
 
-## Lucía López Rodriguez
+## Lucía López Rodríguez
 
 Rol: Diseño 3D - [@luci-07](https://github.com/luci-07)
 
