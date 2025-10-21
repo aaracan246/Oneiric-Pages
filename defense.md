@@ -72,3 +72,13 @@ He participado junto a mis compañeros en:
 - Mecánicas básicas haciendo de puente entre programación y diseño.
 - Narrativa del juego.
 - Elaboración de parte del proyecto (Preproducción).
+
+## Gabriel Payares Rosado
+Rol: Diseñador del juego
+
+He participado en el proyecto en las siguientes tareas:
+
+- Concepto del videojuego y las mecánicas 
+- Idea de la narrativa del juego
+- Lluvia de ideas para el nombre del juego y nombre final
+- Descarte y adición de mecánicas no contempladas en el inicio del desarrollo
