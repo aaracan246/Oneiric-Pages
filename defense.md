@@ -7,7 +7,9 @@
   - [Paula Rumeu Romero](#paula-rumeu-romero)
   - [Samuel Urbina Flor](#samuel-urbina-flor)
   - [Lucía López Rodríguez](#lucía-lópez-rodríguez)
+  - [Miguel Gallardo Cota](#miguel-gallardo-cota)
   - [Alberto Aranda Cano](#alberto-aranda-cano)
+  - [Gabriel Payares Rosado](#gabriel-payares-rosado)
 
 ## Paula Rumeu Romero
 
@@ -40,11 +42,11 @@ Por mi parte he realizado:
 
 Rol: Diseño 3D - [@luci-07](https://github.com/luci-07)
 
-En este proyecto he participado en: 
+En este proyecto he participado en:
 
-* Concepto inicial del juego.
-* Trabajar con el resto del equipo en ideas para crear la narrativa.
-* Dar ideas y elaborar junto al resto de compañeros las mecánicas principales del juego.
+- Concepto inicial del juego.
+- Trabajar con el resto del equipo en ideas para crear la narrativa.
+- Dar ideas y elaborar junto al resto de compañeros las mecánicas principales del juego.
 
 ## Miguel Gallardo Cota
 
@@ -74,11 +76,12 @@ He participado junto a mis compañeros en:
 - Elaboración de parte del proyecto (Preproducción).
 
 ## Gabriel Payares Rosado
+
 Rol: Diseñador del juego
 
 He participado en el proyecto en las siguientes tareas:
 
-- Concepto del videojuego y las mecánicas 
+- Concepto del videojuego y las mecánicas
 - Idea de la narrativa del juego
 - Lluvia de ideas para el nombre del juego y nombre final
 - Descarte y adición de mecánicas no contempladas en el inicio del desarrollo

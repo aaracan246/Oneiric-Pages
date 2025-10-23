@@ -1,4 +1,4 @@
-b# Oneiric Pages GDD
+# Oneiric Pages GDD
 
 _Presta atención en el día para poder escapar de tus pesadillas._
 <br></br>
@@ -28,7 +28,7 @@ El juego transcurre en un ciclo de _día y noche_, durante el día debes explora
 - Interacciones: Comer, recoger cajas, barrer, gestión inventario
 - Inventario de objetos. Puedes recoger cosas durante la exploración del día y usarlas durante la noche.
 - Personaje secundario que te guía si necesitas ayuda. (Gato)
-<br></br>
+  <br></br>
 
 ## Unique Selling Points
 
@@ -36,7 +36,7 @@ El juego transcurre en un ciclo de _día y noche_, durante el día debes explora
 - Descubre la historia que existe detrás de tus pesadillas.
 - Despiérteate.
 - Experiencia inmersiva en primera persona, con estética retro PS1 y efectos CRT.
-<br></br>
+  <br></br>
 
 ## Estilo artístico
 
@@ -65,18 +65,18 @@ Jóvenes entre 18 y 25 años, especialmente streamers y jugadores de nicho.
 
 ## Plataformas objetivo
 
-El videojuego estará adaptado para PC y consolas (PlayStation 5 y XBOX). 
+El videojuego estará adaptado para PC y consolas (PlayStation 5 y XBOX).
 
 - El público objetivo (jóvenes y streamers) juega principalmente en PC, pero se desarrolla también para el público general de consolas.
 - El diseño simple de las mecánicas del juego permite una adaptación universal ajeno a la plataforma.
-<br></br>
+  <br></br>
 
 ## Características técnicas
 
 - Compatible con **teclado, ratón y mando**
 - Gráficos _low poly_ y efectos CRT de bajo consumo, garantizando **alto rendimiento** incluso en equipos modestos.
 - Almacenamiento local con **hasta 3 partidas guardadas** simultáneamente.
-<br></br>
+  <br></br>
 
 ## Ventajas y limitaciones
 
@@ -93,7 +93,7 @@ El videojuego estará adaptado para PC y consolas (PlayStation 5 y XBOX).
 - Sin consola, se pierde la exposición de plataformas de entretenimiento masivo.
 - Distribución dependiente de plataformas digitales sin presencia física.
 - Poco tiempo de desarrollo al ser pensado para una gamejam
-<br></br>
+  <br></br>
 
 ## Adaptaciones necesarias
 
