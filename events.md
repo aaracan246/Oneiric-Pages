@@ -10,7 +10,7 @@
 
 ### Stand
 
-![Flyer](./img/flyer.png.png)
+![Flyer](./img/flyer.png)
 
 ## Ideas únicas
 
