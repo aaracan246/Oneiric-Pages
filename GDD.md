@@ -42,7 +42,7 @@ El juego transcurre en un ciclo de _día y noche_, durante el día debes explora
 
 Low poly, gráficos estilo PS1, efectos CRT
 
-![UI Mockup](Interfaz.png)
+![UI Mockup](/img/Interfaz.png)
 UI Mockup
 
 Inventario de objetos, diario con menú integrado, menú principal (cargar partida, partida nueva, opciones, salir)
