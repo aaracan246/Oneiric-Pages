@@ -1,6 +1,6 @@
 # Clasificación estimada por agencia
 
-![IARC Rating](iarc-rating.jpeg)
+![IARC Rating](/img/iarc-rating.jpeg)
 
 - PEGI 12: Horror
 
