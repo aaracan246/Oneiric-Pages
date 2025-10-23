@@ -1,11 +1,13 @@
 # Clasificación estimada por agencia
 
-## PEGI
+![IARC Rating](iarc-rating.jpeg)
 
-## USK
+- PEGI 12: Horror
 
-## ESRB
+- USK 12: Dark Atmosphere, Burdensome Themes
 
-## ACB/OFLC/CERO
+- ESRB Teen: Mild Violence
 
-## IARC
+- ACB Mature: Horror Themes
+
+- IARC 12+: Horror

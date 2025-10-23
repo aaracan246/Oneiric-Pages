@@ -15,7 +15,7 @@
 - PC: Amplia base de usuarios, flexibilidad en términos de hardware y software, y una comunidad activa que apoya juegos indie.
 - PlayStation 5: Consola popular con una gran base de usuarios, y accesibilidad a juegos de alta calidad sin necesidad de potentes PCs.
 
-Ambas son las plataformas mayoritarias
+Ambas son las plataformas mayoritarias en el mercado de videojuegos actual.
 
 ## Perfil de jugador
 

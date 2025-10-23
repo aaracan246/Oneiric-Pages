@@ -60,3 +60,5 @@ Para describir las vistas del proyecto y cómo utilizarlas.
 ### Documentos
 - [GDD](GDD.md) - **Game Design Document**
 - [Defensas](defense.md) - **Defensas del proyecto**
+- [Rating](rating.md) - **Clasificación estimada por agencia**
+- [Market](market.md) - **Análisis de mercado**
