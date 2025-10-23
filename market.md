@@ -4,9 +4,13 @@
 
 > Cuáles son los tres países en los que podría tener más ventas y por qué.
 
-- Estados Unidos: Gran mercado de videojuegos con una alta tasa de adopción de nuevas tecnologías y una cultura de consumo fuerte.
-- China: Uno de los mercados de videojuegos más grandes del mundo, con una población joven y una creciente aceptación de juegos indie.
-- Japón: Fuerte cultura de videojuegos y una base de jugadores leales, especialmente en géneros específicos como RPGs y juegos de acción.
+- China
+  - Mayor mercado de videojuegos del mundo con una gran base de jugadores.
+  - Encaja con la estética popular en los juegos de horror psicológico chinos.
+- Estados Unidos
+  - Cuna de los creadores de contenido que pueden ayudar a la difusión del juego.
+- Japón
+  - Gran afición por los juegos de horror psicológico introspectivo.
 
 ## Plataformas
 
@@ -21,4 +25,11 @@ Ambas son las plataformas mayoritarias en el mercado de videojuegos actual.
 
 > Qué perfil de jugador sería el adecuado para dirigirse y por qué.
 
-Fans del terror y los puzzles: Jugadores que disfrutan de la atmósfera tensa y los desafíos mentales que ofrece el juego.
+Jóvenes entre 17 y 26 años, interesados en los juegos de terror y puzzles con una inclinación hacia experiencias inmersivas y narrativas, que busquen experiencias cortas pero impactantes.
+
+## Referencias
+
+- <https://financesonline.com/number-of-gamers-worldwide/>
+- <https://app.sensortower.com/vgi/assets/reports/VGI_Global_PC_Games_Market_Report_2024.pdf>
+- <https://techpenny.com/horror-game-demographics/>
+- <https://sabukaru.online/articles/exploring-the-evolution-of-chinese-horror-games>
