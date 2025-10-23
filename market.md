@@ -29,7 +29,7 @@ Jóvenes entre 17 y 26 años, interesados en los juegos de terror y puzzles con 
 
 ## Referencias
 
-- <https://financesonline.com/number-of-gamers-worldwide/>
-- <https://app.sensortower.com/vgi/assets/reports/VGI_Global_PC_Games_Market_Report_2024.pdf>
-- <https://techpenny.com/horror-game-demographics/>
-- <https://sabukaru.online/articles/exploring-the-evolution-of-chinese-horror-games>
+- Finances online. "Number of gamers online" <https://financesonline.com/number-of-gamers-worldwide/>
+- Sensor Tower. "Global pc games market report 2024" <https://app.sensortower.com/vgi/assets/reports/VGI_Global_PC_Games_Market_Report_2024.pdf>
+- Tech Penny. "Horror game demographics" <https://techpenny.com/horror-game-demographics/>
+- Sabukar "Evolution of Chinese horror games" <https://sabukaru.online/articles/exploring-the-evolution-of-chinese-horror-games>
