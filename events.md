@@ -8,6 +8,11 @@
 - Tokyo game show: Acceso al público japonés
 - Dreamhack Atlanta (Indie Playground): Acceso al público estadounidense
 
+  Algunas organizaciones ofrecen su espacio para el montaje de un stand mediante la participación vía talleres, charlas o exposiciones como alternativa al pago en metálico. Por lo que se proponen diferentes talleres relacionados con la temática del videojuego:
+    - Taller sobre la relevancia de los monstruos en su periodo histórico.
+    - Taller sobre perspectiva de género en videojuegos.
+    - Taller práctico sobre diseño y modelaje 3D de monstruos populares. 
+
 ### Stand
 
 ![Flyer](./img/flyer.png)
