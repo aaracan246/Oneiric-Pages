@@ -11,7 +11,7 @@
 ### Stand
 
 ![Flyer](./img/flyer.png)
-![Stand](./img/stand.png).
+![Stand](./img/stand.png)
 ## Ideas únicas
 
 > Pensad también diferentes ideas originales (al menos tres) para promocionar vuestro videojuego en el stand y atraer a posibles compradores o inversores.
