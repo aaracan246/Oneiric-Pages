@@ -13,18 +13,17 @@
     - Taller sobre perspectiva de género en videojuegos.
     - Taller práctico sobre diseño y modelaje 3D de monstruos populares. 
 
-### Stand
+## Stand
+> Pensad también diferentes ideas originales (al menos tres) para promocionar vuestro videojuego en el stand y atraer a posibles compradores o inversores.
 
 ![Flyer](./img/flyer.png)
 ![Stand](./img/stand.png)
-## Ideas únicas
 
-> Pensad también diferentes ideas originales (al menos tres) para promocionar vuestro videojuego en el stand y atraer a posibles compradores o inversores.
-
-- Burbuja donde jugar que oscurece todo
-- Prop diario con garabatos turbios e incitación a escribir
-- Nos vestimos de personajes y asustamos
-- Peluche de gato
+- Carpa donde jugar que oscurece el espacio para una mejor inmersión
+- El diario como prop para que la gente interactúe con nuestro stand
+- Caracterización del staff de los personajes del videojuego
+- Peluche de gato (guía en el juego)
+- Una serie de puzles, acertijos y rompecabezas para la integración del tema en los clientes 
 
 ## Nota de prensa
 
