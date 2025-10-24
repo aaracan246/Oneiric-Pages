@@ -32,3 +32,14 @@
 ## Discurso
 
 > Por último, prepararéis un discurso de máximo sesenta segundos vendiendo la idea de vuestro juego y sus características principales, tal y como haríais si tuviéseis la oportunidad de presentarlo frente a grupos de inversión. Lo expondréis en clase al finalizar.
+
+Hola Soy Lucía, modeladora y animadora 3D del estudio de videojuegos Darkblood.inc. Estamos trabajando en un videojuego de terror y rompecabezas.
+
+Nuestro equipo está formado por profesionales de la programación, arte y sonido lo que garantiza un producto a la altura de las espectativas.
+
+El auge de los juegos de terror en la cultura popular nos ha permitido hacer este proyecto para un público en aumento, además, nuestra pasión por este género y los puzzles nos lleva a desarrollar este videojuego con muchísima ilusión.
+  
+Nuestro juego no abusa de sustos baratos. Es una experiencia que utiliza la atmósfera, los puzzles y la narrativa para ofrecer sensaciones que no olvidarán.
+
+Nos encantaría mostrarte nuestro producto que puedes encontrar en nuestro stand (di donde está, cómo es). 
+Te atreves a adentrarte?, serás capaz de resolver nuestros puzzles bajo presión?
