@@ -33,6 +33,9 @@ Todo el conjunto está pensado para atraer tanto a curiosos como a fans del gén
 <br></br>
 ![Flyer](./img/flyer.png)
 *Diseño del flyer promocional de “Oneiric Pages”* - Diseñado por Paula Rumeu Romero
+<br></br>
+![Logo](./img/logo.png)
+*Diseño del logo de DarkBlood* - Diseñado por Samuel Urbina Flor
 
 <br></br>
 
