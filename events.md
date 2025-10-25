@@ -1,45 +1,44 @@
 # Presentación en sociedad
 
 ## Eventos
-
-> Imaginad que vais a presentar vuestro proyecto de videojuegos en diferentes eventos. Buscad información sobre los próximos que van a realizarse y seleccionad tres eventos que creéis relevantes, ya sea por la temática o el público objetivo.
+DarkBlood tiene como objetivo llevar Oneiric Pages a algunos de los eventos más relevantes del panorama indie y de videojuegos a nivel internacional. Cada uno ofrece una oportunidad única de conectar con públicos distintos y mostrar el potencial del estudio.
 
 - IndieDevDay: Encontrar fans del horror en una convención indie española con invitados globales
 - Tokyo game show: Acceso al público japonés
 - Dreamhack Atlanta (Indie Playground): Acceso al público estadounidense
+<br></br>
 
-  Algunas organizaciones ofrecen su espacio para el montaje de un stand mediante la participación vía talleres, charlas o exposiciones como alternativa al pago en metálico. Por lo que se proponen diferentes talleres relacionados con la temática del videojuego:
-    - Taller sobre la relevancia de los monstruos en su periodo histórico.
-    - Taller sobre perspectiva de género en videojuegos.
-    - Taller práctico sobre diseño y modelaje 3D de monstruos populares. 
+Algunas organizaciones ofrecen su espacio para el montaje de un stand mediante la participación vía talleres, charlas o exposiciones como alternativa al pago en metálico. Por lo que se proponen diferentes talleres relacionados con la temática del videojuego:
 
-## Stand
-> Pensad también diferentes ideas originales (al menos tres) para promocionar vuestro videojuego en el stand y atraer a posibles compradores o inversores.
+  - Taller sobre la relevancia de los monstruos en su periodo histórico.
+  - Taller sobre perspectiva de género en videojuegos.
+  - Taller práctico sobre diseño y modelaje 3D de monstruos populares. 
 
-![Flyer](./img/flyer.png)
-![Stand](./img/stand.png)
+<br></br>
 
-- Carpa donde jugar que oscurece el espacio para una mejor inmersión
-- El diario como prop para que la gente interactúe con nuestro stand
+## Stand y Marketing
+El stand de DarkBlood busca ofrecer una experiencia más allá de la pantalla:
+- Una carpa oscura que aísla la luz del exterior para una inmersión total.
+- Un diario físico inspirado en el del juego, que los visitantes pueden hojear y dejar sus propias notas.
 - Caracterización del staff de los personajes del videojuego
-- Peluche de gato (guía en el juego)
-- Una serie de puzles, acertijos y rompecabezas para la integración del tema en los clientes 
+- Un peluche o figura del gato, la guía del jugador dentro del juego.
+- El artbook en físico.
+- Una serie de puzles, acertijos y rompecabezas para la integración del tema en los clientes.
+
+Todo el conjunto está pensado para atraer tanto a curiosos como a fans del género, fomentando la participación y el boca a boca dentro del evento.
+<br></br>
+
+![Stand](./img/stand.png)
+*Boceto del stand de DarkBlood* - Ilustrado por Samuel Urbina Flor
+<br></br>
+![Flyer](./img/flyer.png)
+*Diseño del flyer promocional de “Oneiric Pages”* - Diseñado por Paula Rumeu Romero
+
+<br></br>
 
 ## Nota de prensa
+La nota de prensa servirá como carta de presentación del estudio y del proyecto ante medios, organizadores y público.
+En ella se resumen los puntos clave de Oneiric Pages, su propuesta narrativa y el enfoque artístico del equipo.
 
-> Elaboraréis una nota de prensa, de al menos 200 palabras, para entregar a los periodistas que os visiten. Recordad indicar toda la información relevante y no os olvidéis de incluir vuestros Unique Selling Points.
+![Press Realase](./img/pressrealase.png)
 
-## Discurso
-
-> Por último, prepararéis un discurso de máximo sesenta segundos vendiendo la idea de vuestro juego y sus características principales, tal y como haríais si tuviéseis la oportunidad de presentarlo frente a grupos de inversión. Lo expondréis en clase al finalizar.
-
-Hola Soy Lucía, modeladora y animadora 3D del estudio de videojuegos Darkblood.inc. Estamos trabajando en un videojuego de terror y rompecabezas.
-
-Nuestro equipo está formado por profesionales de la programación, arte y sonido lo que garantiza un producto a la altura de las espectativas.
-
-El auge de los juegos de terror en la cultura popular nos ha permitido hacer este proyecto para un público en aumento, además, nuestra pasión por este género y los puzzles nos lleva a desarrollar este videojuego con muchísima ilusión.
-  
-Nuestro juego no abusa de sustos baratos. Es una experiencia que utiliza la atmósfera, los puzzles y la narrativa para ofrecer sensaciones que no olvidarán.
-
-Nos encantaría mostrarte nuestro producto que puedes encontrar en nuestro stand (di donde está, cómo es). 
-Te atreves a adentrarte?, serás capaz de resolver nuestros puzzles bajo presión?
